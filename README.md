@@ -4,3 +4,5 @@
 - 👀 I’m interested in programming.
 
 - 🌱 I’m currently learning Python, Lua and Javascript.
+  
+@ https://khey.codes
